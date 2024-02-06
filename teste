@@ -1,0 +1,170 @@
+ <!DOCTYPEhtml >
+< html  lang =" pt-br " >
+
+< cabeça >
+  < meta  charset =" UTF-8 " >
+  < meta  http-equiv =" Compatível com X-UA " content =" IE=edge " >
+  < meta  name =" viewport " content =" largura = largura do dispositivo, escala inicial = 1,0 " >
+  < link  rel =" folha de estilo " href =" css/style.css " >
+  < link  rel =" preconnect " href =" https://fonts.googleapis.com " >
+  < link  rel =" preconnect " href =" https://fonts.gstatic.com " crossorigin >
+  < link  href =" https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap "
+    rel =" folha de estilo " >
+  < title > Guilherme candidatura </ title >
+</ cabeça >
+
+< corpo >
+
+
+  < div  class =" modo escuro " >
+    <!-- CABEÇALHO -->
+    < cabeçalho >
+      < div  class =" contêiner " >
+        < div  class =" linha " >
+          <!-- DIV FOTO DE PERFIL -->
+          < div  class =" coluna coluna-esquerda " >
+            <figura> _ _
+              < a  href =" https://imgbox.com/vl2sOSPt " target =" _blank " > < img  src =" https://images2.imgbox.com/d5/49/vl2sOSPt_o.jpg " alt =" host de imagem " / > </a> _  
+            </ figura >
+          </div> _ _
+
+          < div  class =" coluna coluna-direita " >
+            <h1> Guilherme Cândida </h1> _ _ _
+            < p > Estudante </ p >
+
+            <ul> _ _
+              <li> _ _
+                < a  href =" mailto: Gu1lhermecandidaw5@gmail.com " > Gu1lhermecandidaw5@gmail.com </ a >
+              </ li >
+              <li> _ _
+                <a href="tel:5541987235232" > ( 41 ) 987235232 </a> _  _ _ _ _
+              </ li >
+              <li> _ _
+                < a  href =" # " > Rua Benin 268 - Fazenda R. Grande
+                </a> _ _
+              </ li >
+              < li > 17 anos </ li >
+            </ul> _ _
+          </div> _ _
+        </div> _ _
+      </div> _ _
+    </ cabeçalho >
+
+    <!-- CORPO DA ÁGINA -->
+    <principal> _ _
+      < div  class =" contêiner " >
+
+        < div  class =" linha " >
+
+          <!-- CONTEUDO LADO ESQUERDO -->
+          < div  class =" coluna coluna-esquerda " >
+            < seção >
+              < span  class =" topo-direita " > </ span >
+              < h2 > Perfil Profissional </ h2 >
+              < p > Eu sempre fui apaixonado por tecnologias sou amante de jogos, edição de vídeo/fotos, animação, e esportes outros desde os meus 10 anos. Não gosto muito de estudar, apesar de levar muito a sério para mim o conhecimento é um dos requisitos mais importantes para a vida. Tenho facilidade para conversar com as pessoas, aprender processos, obedecer regras e focar com facilidade no que estiver fazendo. quero fazer vários cursos e me especializar em algumas áreas que ajudem na minha carreira e na minha vida em geral. </ p >
+              < span  class =" baixo-esquerda " > </ span >
+            </ seção >
+
+            < seção >
+              < span  class =" topo-direita " > </ span >
+              < h2 > Especialidades </ h2 >
+              <ul> _ _
+                < li > Mídias redes sociais </ li >
+                < li > manutenção de computadores </ li >
+                < li > </ li >
+                < li > </ li >
+                < li > </ li >   
+                < li > </ li >
+              </ul> _ _
+              < span  class =" baixo-esquerda " > </ span >
+            </ seção >
+
+            < seção >
+              < span  class =" topo-direita " > </ span >
+              < h2 > Cursos </ h2 >
+              <ul> _ _
+                < li > Web design </ li >
+                < li > Planilhas </ li >
+              </ul> _ _
+              < span  class =" baixo-esquerda " > </ span >
+            </ seção >
+          </div> _ _
+
+          <!-- CONTEUDO LADO DIREITO -->
+          < div  class =" coluna coluna-direita " >
+            < seção >
+              < span  class =" topo-direita " > </ span >
+              < h2 > Experiências </ h2 >
+              <ul> _ _ 
+                < li > ajudei na venda e nas produções de doces
+                  < h3 > estagiário </ h3 >
+                  < forte > ... </ forte >
+                  < p > foi uma época </ p >
+                </ li >
+                <li> _ _
+
+                </ li >
+              </ul> _ _
+              < span  class =" baixo-esquerda " > </ span >
+            </ seção >
+
+            < seção >
+              < span  class =" topo-direita " > </ span >
+              < h2 > Formação </ h2 >
+              <ul> _ _
+                <li> _ _
+                  < h3 > Cursando o Ensino médio </ h3 >
+                  < p > Colégio Liria M.Nichele </ p >
+                  < p > Jan/22 – Cursando 2 trimestre </ p >
+
+                </ li >
+              </ul> _ _
+              < span  class =" baixo-esquerda " > </ span >
+            </ seção >
+          </div> _ _
+
+        </div> _ _
+
+      </div> _ _
+
+
+    <!-- RODAPÉ -->
+    < rodapé >
+      < div  class =" contêiner " >
+
+        < navegação >
+          < ul  class =" info-contato " >
+            <li> _ _
+              < a  href ="" > </ a >
+            </ li >
+          </ul> _ _
+        </nav> _ _
+
+        < navegação >
+          < ul  class =" redes-sociais " >
+              <a href="https://github.com/guizinnSzx" > _  _ _ _ _ _
+                < img  src =" img/github.svg " alt =" GitHub " >
+                < p > GitHub </ p >
+              </a> _ _
+            </ li >
+            <li> _ _
+              <a href="https://www.instagram.com/_guilz/" > _  _ _ _ _ _
+                < img  src =" img/instagram.svg " alt =" Instagram " >
+                < p > Instagram </ p >
+              </a> _ _
+            </ li >
+            <li> _ _
+              <a href=" https://www.facebook.com/guilherme.candida.5/ " > _  _ _ _ _ _
+                < img  src =" img/facebook.svg " alt =" Facebook " >
+                < p > Facebook </ p >
+              </a> _ _
+            </ li >
+          </ ul
+        </nav> _ _
+
+      </div> _ _
+    </ rodapé >
+  </div> _ _
+</ corpo >
+
+</html> _ _  
